@@ -1,5 +1,3 @@
-https://dribbble.com/shots/3848914-Programmer-Thomas
-
 # 👩‍💻 Semih Sinani:
 🔭 I’m currently working Web Developer<br>🌱 I’m currently learning PHP/LARAVEL<br>💬 Ask me about<br>⚡ Fun fact
 
