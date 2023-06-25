@@ -1,5 +1,5 @@
 # 👩‍💻 Semih Sinani:
-🔭 I’m currently working Web Developer<br>🌱 I’m currently learning PHP/LARAVEL<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working Web Developer<br>🌱 I’m currently learning PHP/Laravel<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
