@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👩‍💻 Semih Sinani:
 🔭 I’m currently working Web Developer<br>🌱 I’m currently learning the PHP/Laravel<br>💬 Ask me about<br>⚡ Fun fact
 
 
